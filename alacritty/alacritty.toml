@@ -72,3 +72,8 @@ x = 24
 y = 16
 
 [terminal]
+
+[[keyboard.bindings]]
+key = "Return"
+mods = "Shift"
+chars = "\u001B\r"

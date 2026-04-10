@@ -2,4 +2,8 @@ cp -r ~/.config/fcitx5/ ./fcitx5
 cp -r ~/.config/fcitx/ ./fcitx
 cp -r ~/.config/hypr/ ./hypr
 cp -r ~/.config/alacritty/ ./alacritty
-cp -r ~/.config/waybar ./waybar
+cp -r ~/.config/waybar/ ./waybar
+cp -r ~/.config/fastfetch/ ./fastfetch
+cp -r ~/.config/fish/ ./fish
+cp -r ~/.config/waypaper/ ./waypaper
+cp -r ~/图片/wallpaper/ ./wallpaper
